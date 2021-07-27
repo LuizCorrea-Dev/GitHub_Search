@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.github_search" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/orange_principal_dark</item>
+
+        <item name="colorSecondary">@color/orange_principal</item>
+        <item name="android:navigationBarColor">@color/orange_principal</item>
+
+    </style>
+
+    <style name="Circle">
+        <item name="cornerSize">50%</item>
+    </style>
+
+</resources>
